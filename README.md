@@ -1,4 +1,3 @@
-#NOTE : This Project is Licensed . Please contact me at my email: jasminalvarezdev@gmail.com to have permission to use.
 
 # Food Amor
 Full Stack Application that is meant to connect customers with local restaurants to give them the chance to buy leftover meals at a steep discount.
